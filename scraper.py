@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 import argparse
 
-
+#
 def scrape(url):
     r = requests.get(url)
 
