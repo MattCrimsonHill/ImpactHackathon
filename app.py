@@ -64,5 +64,4 @@ def result():
       return render_template("index.html", price = price, rating = rating, value = value, warranty = warranty, CPL = CPL, pusd = p[0], pyen = p[1], peur = p[2], cusd = c[0], cyen = c[1], ceur = c[2])
 
 if __name__ == '__main__':
-    # apiInit()
     app.run(debug=True)
