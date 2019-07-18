@@ -23,6 +23,7 @@ def apiInit():
     #REQUEST
     resp = requests.get(finalURL, headers = headers)
     data = resp.json()
+    print("INSIDE_CALL", data)
 
 #CONVERSION OF CURRENCIES
 def convertCurr(amt):
