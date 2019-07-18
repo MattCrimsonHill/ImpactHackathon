@@ -25,10 +25,12 @@ def apiInit():
     data = resp.json()
     print("INSIDE CALL", data)
 
+    print('INSIDE CALL', data)
+
 #CONVERSION OF CURRENCIES
 def convertCurr(amt):
     global data
-    
+
     try:
         #CONVERSION
         amt = float(amt)
