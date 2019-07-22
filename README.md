@@ -1,6 +1,8 @@
 # Impact Hackathon 2019 - Team Appendly
 ## Theme: Finance by BlackRock
 
+![img](https://media-fastly.hackerearth.com/media/hackathon/junction-online-test/images/6619c38a8b-junctiononline-impacthackathon-cover-still-hackerearth.jpg)
+
 ### Team Members
 * [Sai Adarsh S](https://LINkedin.com/in/sai-adarsh/), [Rajasekar M](https://www.linkedin.com/in/rajasekar1999), [Sibi Bose P.S.](https://www.linkedin.com/in/sibi-bose-8683b6150/)
 
@@ -59,3 +61,4 @@ https://www.producthunt.com/posts/flipkart-cost-per-lifetime-predictor
 		python app.py
   
 ## Output
+![alt text](images/demo.png)
