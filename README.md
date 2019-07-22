@@ -56,8 +56,6 @@ https://www.producthunt.com/posts/flipkart-cost-per-lifetime-predictor
 	```
 ## Running
 
-	```
 		python app.py
-	```
   
 ## Output
