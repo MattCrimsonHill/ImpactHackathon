@@ -51,16 +51,16 @@ https://www.producthunt.com/posts/flipkart-cost-per-lifetime-predictor
 
 ## Installation
 * Clone the repo
-	```
+
 		git clone https://github.com/sai-adarsh/impacthackathon.git
 		cd impacthackathon
-	```
+		
 * Install the required plugins
-
-	```
+		
 		pip install -r requirement.txt
-	```
-## Running
+		
+## Running Locally:
+* To run the WebApp locally: 
 
 		python app.py
   
