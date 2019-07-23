@@ -38,6 +38,9 @@ system.
 * Suggesting “Value for Money” Products as ads for the
 customers and generating revenue by ads.
 
+### Stacks Used:
+![img alt](images/stack.png)
+
 ### Rakuten API used:
 * Currency Converter API
 * Web Search Image API
