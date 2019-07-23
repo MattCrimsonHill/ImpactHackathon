@@ -38,10 +38,14 @@ system.
 * Suggesting “Value for Money” Products as ads for the
 customers and generating revenue by ads.
 
+### Rakuten API used:
+* Currency Converter API
+* Web Search Image API
+
 ### Project Links:
-● Github Repo Link : github.com/sai-adarsh/impacthackathon
-● Demo YouTube Link : https://youtu.be/bsqCphK4wYQ
-● Heroku App Link : impacthackathon.herokuapp.com
+* Github Repo Link : github.com/sai-adarsh/impacthackathon
+* Demo YouTube Link : https://youtu.be/bsqCphK4wYQ
+* Heroku App Link : impacthackathon.herokuapp.com
 **Product Hunt Link**
 https://www.producthunt.com/posts/flipkart-cost-per-lifetime-predictor
 
