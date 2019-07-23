@@ -1,4 +1,8 @@
 # Impact Hackathon 2019 - Team Appendly
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+
 ## Theme: Finance by BlackRock
 
 ![img](https://raw.githubusercontent.com/the-bose/ImpactHackathon/master/images/banner.jpg)
