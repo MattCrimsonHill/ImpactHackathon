@@ -45,8 +45,8 @@ customers and generating revenue by ads.
 ### Project Links:
 * Github Repo Link : github.com/sai-adarsh/impacthackathon
 * Demo YouTube Link : https://youtu.be/bsqCphK4wYQ
-* Heroku App Link : impacthackathon.herokuapp.com
-**Product Hunt Link**
+* Heroku App Link : http://impacthackathon.herokuapp.com/
+* **Product Hunt Link**
 https://www.producthunt.com/posts/flipkart-cost-per-lifetime-predictor
 
 ## Installation
