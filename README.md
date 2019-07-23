@@ -1,10 +1,10 @@
 # Impact Hackathon 2019 - Team Appendly
 ## Theme: Finance by BlackRock
 
-![img](https://media-fastly.hackerearth.com/media/hackathon/junction-online-test/images/6619c38a8b-junctiononline-impacthackathon-cover-still-hackerearth.jpg)
+![img](https://raw.githubusercontent.com/the-bose/ImpactHackathon/master/images/banner.jpg)
 
 ### Team Members
-* [Sai Adarsh S](https://LINkedin.com/in/sai-adarsh/), [Rajasekar M](https://www.linkedin.com/in/rajasekar1999), [Sibi Bose P.S.](https://www.linkedin.com/in/sibi-bose-8683b6150/)
+* [Sai Adarsh S](https://LINkedin.com/in/sai-adarsh/), [Rajasekar M](https://www.linkedin.com/in/rajasekar1999), [Sibi Bose P S ](https://www.linkedin.com/in/sibi-bose-8683b6150/)
 
 ### Targeted Problem Statement
 * The lack of a feature in Expenditure Tracking Apps to
@@ -13,7 +13,7 @@ customer based on their e-commerce activity.
 * The lack of a feature in the E-Commerce Websites to
 suggest the information regarding the value for
 money aspects of the product such as the monthly
-cost per minimum lifetime of the sought product,
+**cost per minimum lifetime** of the sought product,
 brand reputation, etc.
 
 ### Our Solution
@@ -42,11 +42,11 @@ customers and generating revenue by ads.
 ![img alt](images/stack.png)
 
 ### Rakuten API used:
-* Currency Converter API
-* Web Search Image API
+* [Fixer Currency API](https://english.api.rakuten.net/fixer/api/fixer-currency) for Currency Conversion
+* [Web Search API](https://english.api.rakuten.net/contextualwebsearch/api/web-search) for Image Search
 
 ### Project Links:
-* Github Repo Link : github.com/sai-adarsh/impacthackathon
+* Github Repo Link : https://github.com/sai-adarsh/impacthackathon
 * Demo YouTube Link : https://youtu.be/bsqCphK4wYQ
 * Heroku App Link : http://impacthackathon.herokuapp.com/
 * **Product Hunt Link**
