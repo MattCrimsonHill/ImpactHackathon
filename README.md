@@ -68,4 +68,4 @@ https://www.producthunt.com/posts/flipkart-cost-per-lifetime-predictor
 		python app.py
   
 ## Demo
-![alt text](images/demo.png)
+![alt text](images/video.mp4)
